@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,16 +14,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Hi, I'm Sam
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Hi! My name is Samuel Jacob Leibowitz, but everyone calls me Sam, or Sammy, or occasionally Sammy Baby.
+  I'm a software engineer and architect, and work in the healthcare industry, primarily behavioral health.
+url: "https://samleibowitz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: LeibowitzSam
+github_username:  samleibowitz
 minimal_mistakes_skin: default
-search: true
+# search: true
 
 # Build settings
 markdown: kramdown
@@ -58,34 +59,32 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Sam Leibowitz"
+  avatar : "/assets/images/social-media-square.jpg"
+  # bio    : "  Hi! My name is Samuel Jacob Leibowitz, but everyone calls me Sam, or Sammy, or occasionally Sammy Baby. I'm a software engineer/architect, working the healthcare industry, specifically behavioral health."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/LeibowitzSam"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/samleibowitz"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samuel-leibowitz/"
+
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/LeibowitzSam"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/samleibowitz"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samuel-leibowitz/"
 
 defaults:
   # _posts
