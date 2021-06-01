@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+# title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+  Hi! My name is Samuel Jacob Leibowitz, but everyone calls me Sam, or Sammy, or occasionally Sammy Baby.
+  I'm a software engineer/architect, working in the healthcare industry, primarily behavioral health.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+  Uh... look, let's be honest here. I've just moved into the place and things aren't quite settled. Tell you what: today is 31 May, 2021. If I haven't replaced this placeholder with _something_ within the next couple of weeks, you can come and [hassle me on Twitter](https://twitter.com/LeibowitzSam).
